@@ -1,0 +1,228 @@
+{
+ "items": [
+  {
+   "track": "Kafka",
+   "day": 1,
+   "title": "Sync vs async communication",
+   "pdf": "pdfs/Kafka_Day1_Sync_vs_Async.pdf",
+   "added": "2026-11-17",
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 2,
+   "title": "Tight coupling and decoupling",
+   "pdf": "pdfs/Kafka_Day2_Tight_Coupling_and_Decoupling.pdf",
+   "added": "2026-11-17",
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 3,
+   "title": "Event-driven architecture",
+   "pdf": "pdfs/Kafka_Day3_Event_Driven_Architecture.pdf",
+   "added": "2026-11-18",
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 4,
+   "title": "What Kafka is: event log, retention, replay",
+   "pdf": "pdfs/Kafka_Day4_What_Kafka_Is.pdf",
+   "added": "2026-11-19",
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 1,
+   "title": "Command types and DELETE vs TRUNCATE vs DROP",
+   "pdf": "pdfs/SQL_Day1_Command_Types_DELETE_TRUNCATE_DROP.pdf",
+   "added": "2026-11-16",
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 2,
+   "title": "WHERE and NULL handling",
+   "pdf": "pdfs/SQL_Day2_WHERE_and_NULL_Handling.pdf",
+   "added": "2026-11-17",
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 3,
+   "title": "GROUP BY and HAVING",
+   "pdf": "pdfs/SQL_Day3_GROUP_BY_and_HAVING.pdf",
+   "added": "2026-11-18",
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 4,
+   "title": "INNER JOIN vs LEFT JOIN",
+   "pdf": "pdfs/SQL_Day4_INNER_vs_LEFT_JOIN.pdf",
+   "added": "2026-11-19",
+   "links": []
+  },
+  {
+   "track": "Schedule",
+   "day": 2,
+   "title": "Week 2 plan (Nov 16 to 22)",
+   "pdf": "pdfs/Interview_Prep_Week2_Nov16-22.pdf",
+   "added": "2026-11-18",
+   "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 1,
+   "title": "Majority Element and Kadane’s Algorithm",
+   "when": "Week 2, Mon Nov 16",
+   "points": [
+    "Majority Element (>n/2)",
+    "Kadane’s Algorithm (Maximum Subarray Sum)",
+    "Mystery: LeetCode 11 – Container With Most Water"
+   ],
+   "links": [
+    {
+     "label": "Striver: Majority Element I | Moore’s Voting Algorithm",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Majority+Element+I+%7C+Brute-Better-Optimal+%7C+Moore%27s+Voting+Algorithm%22"
+    },
+    {
+     "label": "Striver: Kadane’s Algorithm | Finding and Printing",
+     "url": "https://www.youtube.com/watch?v=AHZpyENo7k4"
+    }
+   ]
+  },
+  {
+   "track": "DSA",
+   "day": 2,
+   "title": "Max-sum subarray and Buy/Sell Stock",
+   "when": "Week 2, Tue Nov 17",
+   "points": [
+    "Print the Subarray with Maximum Sum",
+    "Best Time to Buy and Sell Stock"
+   ],
+   "links": [
+    {
+     "label": "Striver: Kadane’s Algorithm | Finding and Printing",
+     "url": "https://www.youtube.com/watch?v=AHZpyENo7k4"
+    },
+    {
+     "label": "Striver: DP 35. Best Time to Buy and Sell Stock",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22DP+35.+Best+Time+to+Buy+and+Sell+Stock%22"
+    }
+   ]
+  },
+  {
+   "track": "DSA",
+   "day": 3,
+   "title": "Rearrange by Sign and Leaders",
+   "when": "Week 2, Wed Nov 18",
+   "points": [
+    "Rearrange Array Elements by Sign",
+    "Leaders in an Array",
+    "Mystery: LeetCode 209 – Minimum Size Subarray Sum"
+   ],
+   "links": [
+    {
+     "label": "Striver: Rearrange Array Elements by Sign",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Rearrange+Array+Elements+by+Sign+%7C+2+Varieties+of+same+Problem%22"
+    },
+    {
+     "label": "Striver: Leaders in an Array",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Leaders+in+an+Array+%7C+Brute+-+Optimal%22"
+    }
+   ]
+  },
+  {
+   "track": "DSA",
+   "day": 4,
+   "title": "Next Permutation",
+   "when": "Week 2, Thu Nov 19",
+   "points": [
+    "Next Permutation (hard day: 1 problem)"
+   ],
+   "links": [
+    {
+     "label": "Striver: Next Permutation - Intuition in Detail",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Next+Permutation+-+Intuition+in+Detail%22"
+    }
+   ]
+  },
+  {
+   "track": "DSA",
+   "day": 5,
+   "title": "Longest Consecutive Sequence",
+   "when": "Week 2, Fri Nov 20",
+   "points": [
+    "Longest Consecutive Sequence (hard day: 1 problem)",
+    "Mystery: LeetCode 347 – Top K Frequent Elements"
+   ],
+   "links": [
+    {
+     "label": "Striver: Longest Consecutive Sequence",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Longest+Consecutive+Sequence+%7C+Google+Interview+Question%22"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 1,
+   "title": "Single Responsibility Principle",
+   "when": "Week 2, Mon Nov 16",
+   "points": [
+    "What “one reason to change” means",
+    "Cohesion vs coupling; spotting a god class",
+    "Practice: split a bloated Order class that calculates, saves, and emails"
+   ],
+   "links": []
+  },
+  {
+   "track": "LLD",
+   "day": 2,
+   "title": "Open/Closed Principle",
+   "when": "Week 2, Tue Nov 17",
+   "points": [
+    "Extend without modifying",
+    "How the Strategy pattern enables it",
+    "Practice: add a Festival Discount by adding a class, not editing old code"
+   ],
+   "links": []
+  },
+  {
+   "track": "LLD",
+   "day": 3,
+   "title": "Liskov Substitution Principle",
+   "when": "Week 2, Wed Nov 18",
+   "points": [
+    "Behavioral subtyping",
+    "The Rectangle–Square problem",
+    "Practice: show how Square extending Rectangle breaks code, then fix it"
+   ],
+   "links": []
+  },
+  {
+   "track": "LLD",
+   "day": 4,
+   "title": "Interface Segregation Principle",
+   "when": "Week 2, Thu Nov 19",
+   "points": [
+    "Fat vs lean interfaces",
+    "Practice: split a Machine interface (print, scan, fax) so a basic printer doesn’t implement fax"
+   ],
+   "links": []
+  },
+  {
+   "track": "LLD",
+   "day": 5,
+   "title": "Dependency Inversion and Dependency Injection",
+   "when": "Week 2, Fri Nov 20",
+   "points": [
+    "Depend on abstractions, not concrete classes",
+    "Constructor injection",
+    "Practice: a Store that takes any PaymentMethod through its constructor"
+   ],
+   "links": []
+  }
+ ]
+}
