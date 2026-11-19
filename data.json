@@ -190,7 +190,12 @@
     "Cohesion vs coupling; spotting a god class",
     "Practice: split a bloated Order class that calculates, saves, and emails"
    ],
-   "links": [],
+   "links": [
+    {
+     "label": "sudoCODE: Single Responsibility Principle",
+     "url": "https://youtu.be/-T0H--a8WnY"
+    }
+   ],
    "date": "2026-11-16"
   },
   {
@@ -203,7 +208,12 @@
     "How the Strategy pattern enables it",
     "Practice: add a Festival Discount by adding a class, not editing old code"
    ],
-   "links": [],
+   "links": [
+    {
+     "label": "sudoCODE: Open/Closed Principle",
+     "url": "https://youtu.be/tIavGKafBV8"
+    }
+   ],
    "date": "2026-11-17"
   },
   {
@@ -216,7 +226,12 @@
     "The Rectangle–Square problem",
     "Practice: show how Square extending Rectangle breaks code, then fix it"
    ],
-   "links": [],
+   "links": [
+    {
+     "label": "sudoCODE: Liskov Substitution Principle",
+     "url": "https://youtu.be/HbGDobtxzWk"
+    }
+   ],
    "date": "2026-11-18"
   },
   {
@@ -228,7 +243,12 @@
     "Fat vs lean interfaces",
     "Practice: split a Machine interface (print, scan, fax) so a basic printer doesn’t implement fax"
    ],
-   "links": [],
+   "links": [
+    {
+     "label": "sudoCODE: Interface Segregation Principle",
+     "url": "https://youtu.be/-E-E6pd-psU"
+    }
+   ],
    "date": "2026-11-19"
   },
   {
@@ -241,7 +261,12 @@
     "Constructor injection",
     "Practice: a Store that takes any PaymentMethod through its constructor"
    ],
-   "links": [],
+   "links": [
+    {
+     "label": "sudoCODE: Dependency Inversion and Dependency Injection",
+     "url": "https://youtu.be/_CQuOfIqaGE"
+    }
+   ],
    "date": "2026-11-20"
   }
  ]
