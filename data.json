@@ -6,7 +6,8 @@
    "title": "Sync vs async communication",
    "pdf": "pdfs/Kafka_Day1_Sync_vs_Async.pdf",
    "added": "2026-11-17",
-   "links": []
+   "links": [],
+   "date": "2026-11-16"
   },
   {
    "track": "Kafka",
@@ -14,7 +15,8 @@
    "title": "Tight coupling and decoupling",
    "pdf": "pdfs/Kafka_Day2_Tight_Coupling_and_Decoupling.pdf",
    "added": "2026-11-17",
-   "links": []
+   "links": [],
+   "date": "2026-11-17"
   },
   {
    "track": "Kafka",
@@ -22,7 +24,8 @@
    "title": "Event-driven architecture",
    "pdf": "pdfs/Kafka_Day3_Event_Driven_Architecture.pdf",
    "added": "2026-11-18",
-   "links": []
+   "links": [],
+   "date": "2026-11-18"
   },
   {
    "track": "Kafka",
@@ -30,7 +33,8 @@
    "title": "What Kafka is: event log, retention, replay",
    "pdf": "pdfs/Kafka_Day4_What_Kafka_Is.pdf",
    "added": "2026-11-19",
-   "links": []
+   "links": [],
+   "date": "2026-11-19"
   },
   {
    "track": "SQL",
@@ -38,7 +42,8 @@
    "title": "Command types and DELETE vs TRUNCATE vs DROP",
    "pdf": "pdfs/SQL_Day1_Command_Types_DELETE_TRUNCATE_DROP.pdf",
    "added": "2026-11-16",
-   "links": []
+   "links": [],
+   "date": "2026-11-16"
   },
   {
    "track": "SQL",
@@ -46,7 +51,8 @@
    "title": "WHERE and NULL handling",
    "pdf": "pdfs/SQL_Day2_WHERE_and_NULL_Handling.pdf",
    "added": "2026-11-17",
-   "links": []
+   "links": [],
+   "date": "2026-11-17"
   },
   {
    "track": "SQL",
@@ -54,7 +60,8 @@
    "title": "GROUP BY and HAVING",
    "pdf": "pdfs/SQL_Day3_GROUP_BY_and_HAVING.pdf",
    "added": "2026-11-18",
-   "links": []
+   "links": [],
+   "date": "2026-11-18"
   },
   {
    "track": "SQL",
@@ -62,7 +69,8 @@
    "title": "INNER JOIN vs LEFT JOIN",
    "pdf": "pdfs/SQL_Day4_INNER_vs_LEFT_JOIN.pdf",
    "added": "2026-11-19",
-   "links": []
+   "links": [],
+   "date": "2026-11-19"
   },
   {
    "track": "Schedule",
@@ -70,7 +78,9 @@
    "title": "Week 2 plan (Nov 16 to 22)",
    "pdf": "pdfs/Interview_Prep_Week2_Nov16-22.pdf",
    "added": "2026-11-18",
-   "links": []
+   "links": [],
+   "date": "2026-11-16",
+   "week": "2026-11-16"
   },
   {
    "track": "DSA",
@@ -91,7 +101,8 @@
      "label": "Striver: Kadane’s Algorithm | Finding and Printing",
      "url": "https://www.youtube.com/watch?v=AHZpyENo7k4"
     }
-   ]
+   ],
+   "date": "2026-11-16"
   },
   {
    "track": "DSA",
@@ -111,7 +122,8 @@
      "label": "Striver: DP 35. Best Time to Buy and Sell Stock",
      "url": "https://www.youtube.com/results?search_query=take+U+forward+%22DP+35.+Best+Time+to+Buy+and+Sell+Stock%22"
     }
-   ]
+   ],
+   "date": "2026-11-17"
   },
   {
    "track": "DSA",
@@ -132,7 +144,8 @@
      "label": "Striver: Leaders in an Array",
      "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Leaders+in+an+Array+%7C+Brute+-+Optimal%22"
     }
-   ]
+   ],
+   "date": "2026-11-18"
   },
   {
    "track": "DSA",
@@ -147,7 +160,8 @@
      "label": "Striver: Next Permutation - Intuition in Detail",
      "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Next+Permutation+-+Intuition+in+Detail%22"
     }
-   ]
+   ],
+   "date": "2026-11-19"
   },
   {
    "track": "DSA",
@@ -163,7 +177,8 @@
      "label": "Striver: Longest Consecutive Sequence",
      "url": "https://www.youtube.com/results?search_query=take+U+forward+%22Longest+Consecutive+Sequence+%7C+Google+Interview+Question%22"
     }
-   ]
+   ],
+   "date": "2026-11-20"
   },
   {
    "track": "LLD",
@@ -175,7 +190,8 @@
     "Cohesion vs coupling; spotting a god class",
     "Practice: split a bloated Order class that calculates, saves, and emails"
    ],
-   "links": []
+   "links": [],
+   "date": "2026-11-16"
   },
   {
    "track": "LLD",
@@ -187,7 +203,8 @@
     "How the Strategy pattern enables it",
     "Practice: add a Festival Discount by adding a class, not editing old code"
    ],
-   "links": []
+   "links": [],
+   "date": "2026-11-17"
   },
   {
    "track": "LLD",
@@ -199,7 +216,8 @@
     "The Rectangle–Square problem",
     "Practice: show how Square extending Rectangle breaks code, then fix it"
    ],
-   "links": []
+   "links": [],
+   "date": "2026-11-18"
   },
   {
    "track": "LLD",
@@ -210,7 +228,8 @@
     "Fat vs lean interfaces",
     "Practice: split a Machine interface (print, scan, fax) so a basic printer doesn’t implement fax"
    ],
-   "links": []
+   "links": [],
+   "date": "2026-11-19"
   },
   {
    "track": "LLD",
@@ -222,7 +241,8 @@
     "Constructor injection",
     "Practice: a Store that takes any PaymentMethod through its constructor"
    ],
-   "links": []
+   "links": [],
+   "date": "2026-11-20"
   }
  ]
 }
