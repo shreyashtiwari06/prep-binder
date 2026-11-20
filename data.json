@@ -277,6 +277,15 @@
    "added": "2026-11-20",
    "date": "2026-11-20",
    "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 5,
+   "title": "SELF JOIN",
+   "pdf": "pdfs/SQL_Day5_SELF_JOIN.pdf",
+   "added": "2026-11-20",
+   "date": "2026-11-20",
+   "links": []
   }
  ]
 }
