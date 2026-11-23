@@ -324,23 +324,22 @@
   {
    "track": "Kafka",
    "day": 6,
-   "title": "Core architecture: broker, cluster, topic, producer, consumer",
+   "title": "Core architecture: brokers, clusters, how a message flows",
    "date": "2026-11-23",
-   "points": [
-    "Notes PDF appears here when you ask Claude for “Kafka Day 6”"
-   ],
-   "links": []
+   "points": [],
+   "links": [],
+   "pdf": "pdfs/Kafka_Day6_Core_Architecture.pdf"
   },
   {
    "track": "SQL",
    "day": 6,
-   "title": "CROSS JOIN and finding missing rows",
+   "title": "CROSS JOIN and finding missing rows (anti-join)",
    "date": "2026-11-23",
    "points": [
-    "Practice: LeetCode 1581",
-    "Notes PDF appears here when you ask Claude for “SQL Day 6”"
+    "Practice: LeetCode 1581 (bonus: 1280)"
    ],
-   "links": []
+   "links": [],
+   "pdf": "pdfs/SQL_Day6_CROSS_JOIN_and_Anti_Join.pdf"
   },
   {
    "track": "DSA",
