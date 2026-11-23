@@ -562,6 +562,116 @@
    "added": "2026-11-23",
    "date": "2026-11-23",
    "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 11,
+   "title": "Largest Subarray with 0 Sum and Subarrays with XOR K",
+   "when": "Week 4, Mon Nov 30",
+   "date": "2026-11-30",
+   "points": [
+    "Largest Subarray with 0 Sum",
+    "Count Subarrays with XOR K",
+    "Mystery: LeetCode 16 – 3Sum Closest"
+   ],
+   "links": [
+    {
+     "label": "Striver: Largest Subarray with 0 Sum",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+largest+subarray+with+0+sum"
+    },
+    {
+     "label": "Striver: Count Subarrays with XOR K",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+count+number+of+subarrays+with+given+xor+k"
+    }
+   ]
+  },
+  {
+   "track": "DSA",
+   "day": 12,
+   "title": "Merge Intervals and Merge Sorted Arrays",
+   "when": "Week 4, Tue Dec 1",
+   "date": "2026-12-01",
+   "points": [
+    "Merge Overlapping Intervals",
+    "Merge Two Sorted Arrays Without Extra Space"
+   ],
+   "links": [
+    {
+     "label": "Striver: Merge Overlapping Intervals",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+merge+overlapping+subintervals"
+    },
+    {
+     "label": "Striver: Merge Two Sorted Arrays Without Extra Space",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+merge+two+sorted+arrays+without+extra+space"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 11,
+   "title": "Prototype pattern",
+   "when": "Week 4, Mon Nov 30",
+   "date": "2026-11-30",
+   "points": [
+    "Creating new objects by copying an existing one",
+    "Shallow vs deep copy",
+    "Practice: clone a document template with nested sections"
+   ],
+   "links": []
+  },
+  {
+   "track": "LLD",
+   "day": 12,
+   "title": "Adapter pattern (first structural pattern)",
+   "when": "Week 4, Tue Dec 1",
+   "date": "2026-12-01",
+   "points": [
+    "Making incompatible interfaces work together",
+    "Practice: adapt a third-party payment SDK to your PaymentMethod interface"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 11,
+   "title": "Producer acks, retries and the idempotent producer",
+   "date": "2026-11-30",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 11”"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 12,
+   "title": "Delivery semantics: at-most-once, at-least-once, exactly-once",
+   "date": "2026-12-01",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 12”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 11,
+   "title": "Window functions I: ROW_NUMBER, RANK, DENSE_RANK",
+   "date": "2026-11-30",
+   "points": [
+    "Practice: LeetCode 178 – Rank Scores",
+    "Notes PDF appears here when you ask Claude for “SQL Day 11”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 12,
+   "title": "Window functions II: LAG, LEAD and running totals",
+   "date": "2026-12-01",
+   "points": [
+    "Practice: LeetCode 180 – Consecutive Numbers",
+    "Notes PDF appears here when you ask Claude for “SQL Day 12”"
+   ],
+   "links": []
   }
  ]
 }
