@@ -286,6 +286,282 @@
    "added": "2026-11-20",
    "date": "2026-11-20",
    "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 6,
+   "title": "Set Matrix Zeroes and Rotate Matrix",
+   "when": "Week 3, Mon Nov 23",
+   "date": "2026-11-23",
+   "points": [
+    "Set Matrix Zeroes",
+    "Rotate Matrix by 90°",
+    "Mystery: LeetCode 881 – Boats to Save People"
+   ],
+   "links": [
+    {
+     "label": "Striver: Set Matrix Zeroes",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+set+matrix+zero"
+    },
+    {
+     "label": "Striver: Rotate Matrix by 90°",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+rotate+matrix+image+by+90+degrees"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 6,
+   "title": "DRY, KISS, YAGNI and Law of Demeter",
+   "when": "Week 3, Mon Nov 23",
+   "date": "2026-11-23",
+   "points": [
+    "What each principle means, with a code smell and the fix",
+    "Practice: refactor order.getCustomer().getAddress().getCity()"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 6,
+   "title": "Core architecture: broker, cluster, topic, producer, consumer",
+   "date": "2026-11-23",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 6”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 6,
+   "title": "CROSS JOIN and finding missing rows",
+   "date": "2026-11-23",
+   "points": [
+    "Practice: LeetCode 1581",
+    "Notes PDF appears here when you ask Claude for “SQL Day 6”"
+   ],
+   "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 7,
+   "title": "Spiral Traversal and Subarray Sum K",
+   "when": "Week 3, Tue Nov 24",
+   "date": "2026-11-24",
+   "points": [
+    "Spiral Traversal of a Matrix",
+    "Count Subarray Sum Equals K"
+   ],
+   "links": [
+    {
+     "label": "Striver: Spiral Traversal of a Matrix",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+spiral+traversal+of+matrix"
+    },
+    {
+     "label": "Striver: Count Subarray Sum Equals K",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+count+subarray+sum+equals+k"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 7,
+   "title": "Singleton pattern",
+   "when": "Week 3, Tue Nov 24",
+   "date": "2026-11-24",
+   "points": [
+    "Lazy vs eager creation",
+    "Thread-safe Singleton",
+    "Why it's often called an anti-pattern"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 7,
+   "title": "Partitions: keys, ordering, hot partitions, partition count",
+   "date": "2026-11-24",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 7”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 7,
+   "title": "Subqueries",
+   "date": "2026-11-24",
+   "points": [
+    "Practice: LeetCode 1978",
+    "Notes PDF appears here when you ask Claude for “SQL Day 7”"
+   ],
+   "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 8,
+   "title": "Pascal's Triangle and Majority Element II",
+   "when": "Week 3, Wed Nov 25",
+   "date": "2026-11-25",
+   "points": [
+    "Pascal's Triangle",
+    "Majority Element II",
+    "Mystery: LeetCode 1695 – Maximum Erasure Value"
+   ],
+   "links": [
+    {
+     "label": "Striver: Pascal's Triangle",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+pascal%27s+triangle+finding+nCr"
+    },
+    {
+     "label": "Striver: Majority Element II",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+majority+element+II"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 8,
+   "title": "Factory Method pattern",
+   "when": "Week 3, Wed Nov 25",
+   "date": "2026-11-25",
+   "points": [
+    "Moving object creation out of business code",
+    "Practice: NotificationFactory for Email, SMS, Push"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 8,
+   "title": "Offsets and commits: auto vs manual",
+   "date": "2026-11-25",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 8”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 8,
+   "title": "Correlated subqueries, EXISTS vs IN",
+   "date": "2026-11-25",
+   "points": [
+    "Practice: LeetCode 1045",
+    "Notes PDF appears here when you ask Claude for “SQL Day 8”"
+   ],
+   "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 9,
+   "title": "3 Sum",
+   "when": "Week 3, Thu Nov 26",
+   "date": "2026-11-26",
+   "points": [
+    "3 Sum (hard day: 1 problem)"
+   ],
+   "links": [
+    {
+     "label": "Striver: 3 Sum",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+3+sum+brute+better+optimal"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 9,
+   "title": "Abstract Factory pattern",
+   "when": "Week 3, Thu Nov 26",
+   "date": "2026-11-26",
+   "points": [
+    "Families of related objects",
+    "Factory Method vs Abstract Factory",
+    "Practice: Light and Dark UI kits"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 9,
+   "title": "Consumer groups and rebalancing",
+   "date": "2026-11-26",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 9”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 9,
+   "title": "UNION vs UNION ALL",
+   "date": "2026-11-26",
+   "points": [
+    "Practice: LeetCode 1789",
+    "Notes PDF appears here when you ask Claude for “SQL Day 9”"
+   ],
+   "links": []
+  },
+  {
+   "track": "DSA",
+   "day": 10,
+   "title": "4 Sum",
+   "when": "Week 3, Fri Nov 27",
+   "date": "2026-11-27",
+   "points": [
+    "4 Sum (hard day: 1 problem)",
+    "Weekly revision (30 min)",
+    "Mystery: LeetCode 523 – Continuous Subarray Sum"
+   ],
+   "links": [
+    {
+     "label": "Striver: 4 Sum",
+     "url": "https://www.youtube.com/results?search_query=take+U+forward+striver+4+sum+brute+better+optimal"
+    }
+   ]
+  },
+  {
+   "track": "LLD",
+   "day": 10,
+   "title": "Builder pattern",
+   "when": "Week 3, Fri Nov 27",
+   "date": "2026-11-27",
+   "points": [
+    "Many optional fields, built step by step",
+    "Immutable results",
+    "Practice: Pizza or HttpRequest builder"
+   ],
+   "links": []
+  },
+  {
+   "track": "Kafka",
+   "day": 10,
+   "title": "Replication: leader, follower, ISR",
+   "date": "2026-11-27",
+   "points": [
+    "Notes PDF appears here when you ask Claude for “Kafka Day 10”"
+   ],
+   "links": []
+  },
+  {
+   "track": "SQL",
+   "day": 10,
+   "title": "CASE WHEN and conditional aggregation",
+   "date": "2026-11-27",
+   "points": [
+    "Practice: LeetCode 1934",
+    "Notes PDF appears here when you ask Claude for “SQL Day 10”"
+   ],
+   "links": []
+  },
+  {
+   "track": "Schedule",
+   "day": 3,
+   "title": "Week 3 plan (Nov 23 to 29)",
+   "pdf": "pdfs/Interview_Prep_Week3_Nov23-29.pdf",
+   "added": "2026-11-23",
+   "date": "2026-11-23",
+   "links": []
   }
  ]
 }
