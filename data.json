@@ -378,12 +378,11 @@
   {
    "track": "Kafka",
    "day": 7,
-   "title": "Partitions: keys, ordering, hot partitions, partition count",
+   "title": "Partitions in depth: parallelism, ordering, partition count",
    "date": "2026-11-24",
-   "points": [
-    "Notes PDF appears here when you ask Claude for “Kafka Day 7”"
-   ],
-   "links": []
+   "points": [],
+   "links": [],
+   "pdf": "pdfs/Kafka_Day7_Partitions_in_Depth.pdf"
   },
   {
    "track": "SQL",
@@ -391,10 +390,10 @@
    "title": "Subqueries",
    "date": "2026-11-24",
    "points": [
-    "Practice: LeetCode 1978",
-    "Notes PDF appears here when you ask Claude for “SQL Day 7”"
+    "Practice: LeetCode 1978 (bonus: 176)"
    ],
-   "links": []
+   "links": [],
+   "pdf": "pdfs/SQL_Day7_Subqueries.pdf"
   },
   {
    "track": "DSA",
