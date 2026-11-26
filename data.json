@@ -432,23 +432,22 @@
   {
    "track": "Kafka",
    "day": 8,
-   "title": "Offsets and commits: auto vs manual",
+   "title": "Offsets and commits: auto vs manual, lag, resetting offsets",
    "date": "2026-11-25",
-   "points": [
-    "Notes PDF appears here when you ask Claude for “Kafka Day 8”"
-   ],
-   "links": []
+   "points": [],
+   "links": [],
+   "pdf": "pdfs/Kafka_Day8_Offsets_and_Commits.pdf"
   },
   {
    "track": "SQL",
    "day": 8,
-   "title": "Correlated subqueries, EXISTS vs IN",
+   "title": "Correlated subqueries, EXISTS vs IN vs JOIN",
    "date": "2026-11-25",
    "points": [
-    "Practice: LeetCode 1045",
-    "Notes PDF appears here when you ask Claude for “SQL Day 8”"
+    "Practice: LeetCode 1045"
    ],
-   "links": []
+   "links": [],
+   "pdf": "pdfs/SQL_Day8_Correlated_Subqueries_EXISTS.pdf"
   },
   {
    "track": "DSA",
