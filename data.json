@@ -483,10 +483,9 @@
    "day": 9,
    "title": "Consumer groups and rebalancing",
    "date": "2026-11-26",
-   "points": [
-    "Notes PDF appears here when you ask Claude for “Kafka Day 9”"
-   ],
-   "links": []
+   "points": [],
+   "links": [],
+   "pdf": "pdfs/Kafka_Day9_Consumer_Groups_and_Rebalancing.pdf"
   },
   {
    "track": "SQL",
@@ -494,10 +493,10 @@
    "title": "UNION vs UNION ALL",
    "date": "2026-11-26",
    "points": [
-    "Practice: LeetCode 1789",
-    "Notes PDF appears here when you ask Claude for “SQL Day 9”"
+    "Practice: LeetCode 1789"
    ],
-   "links": []
+   "links": [],
+   "pdf": "pdfs/SQL_Day9_UNION_vs_UNION_ALL.pdf"
   },
   {
    "track": "DSA",
